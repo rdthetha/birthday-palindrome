@@ -27,6 +27,10 @@ button{
     margin-top: 2rem;
     border-radius: 2rem;
 }
+button:hover{
+    background-color: blue;
+    cursor: pointer;
+}
 
 input{
     border-radius: 2rem;   
@@ -34,11 +38,11 @@ input{
     margin: auto;
     margin-top: 2rem;
 }
-
+}
 #output-msg{
     text-align: center;
     margin: auto;
     margin-top: 2rem;
-    font-weight: bolder;
+    font-weight: bold;
 
 }
